@@ -1,0 +1,2 @@
+# Regression
+praktikum-mavzu:Regressiya
